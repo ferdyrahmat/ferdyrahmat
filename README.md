@@ -1,4 +1,1 @@
-<div style="width: 10px;"></div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ferdy%20%E4%BC%AF%E7%88%B5&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I%27m%20Full%20Stack%20Developer&descAlignY=51&descAlign=62)
-<div style="width: 10px;"></div>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
