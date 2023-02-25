@@ -1,5 +1,3 @@
-## Hey 👋, I'm Ferdy Rahmat Ramdani!  
-  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hallo+%F0%9F%91%8B;Hello+%F0%9F%91%8B;Ni+hao+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Annyeonghaseyo+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B" alt="Typing SVG" />
 
 ## Glad to see you here!
