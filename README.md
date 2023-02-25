@@ -10,4 +10,4 @@
 
 # Jokes
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
