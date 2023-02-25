@@ -19,6 +19,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td></tr></table>  
 
-## Github Profile Trophies
+## Github Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=ferdyrahmat&theme=onedark&no-frame=true" alt="Profile Trophy Card" />
+
+## Quotes
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
