@@ -1,4 +1,4 @@
-<div style="align: center;">
+<div align="center">
   <img src="greetings.gif" align="center" style="width: 500px; height: 500px;" />
 </div>
 
