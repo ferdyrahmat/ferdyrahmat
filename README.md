@@ -1,4 +1,4 @@
-<img src="greetings.gif" align="center" style="width: 100%" />
+<img src="greetings.gif" align="center" style="width: 320px; height: 320px;" />
 
 # Github Profile Trophies 🏆
 
