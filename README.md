@@ -2,6 +2,8 @@
   <img src="greetings.gif" align="center" style="width: 500px; height: 500px;" />
 </div>
 
+### <div align="center">I'm Ferdy, a Full Stack Developer 👨‍💻</div>  
+
 # Github Profile Trophies 🏆
 
 <p align="center">
