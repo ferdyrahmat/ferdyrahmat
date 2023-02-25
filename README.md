@@ -1,8 +1,4 @@
-# Introduce 👋
-
-<div align="center">
-  <img src="greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="greetings.gif" align="center" style="width: 100%" />
 
 # Github Profile Trophies 🏆
 
