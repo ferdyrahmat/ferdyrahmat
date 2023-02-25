@@ -1,6 +1,10 @@
 ## Hey 👋, I'm Ferdy Rahmat Ramdani!  
 
 ### Glad to see you here!  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hallo+%F0%9F%91%8B;Hello+%F0%9F%91%8B;Ni+hao+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Annyeonghaseyo+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
+
 I'm a full-stack developer who has turned years of freelancing into a full-time career. Going full-stack allows me to not only develop client-facing apps and websites, but also develop them with state-of-the-art backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I like to design systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet effective.
